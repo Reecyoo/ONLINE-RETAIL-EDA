@@ -64,34 +64,25 @@ This dataset contains transactions from a UK-based online retail store. The anal
 ## How to Run
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/online-retail-eda.git
-   cd online-retail-eda
-   ```
+   
+   git clone https://github.com/your-username/online-retail-eda.git cd online-retail-eda
+   
 
 2. (Optional) Create a virtual environment and activate it.
 
 3. Install the dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+   ```   pip install -r requirements.txt  ```
 
-4. Open the notebook:
-   ```bash
-   jupyter notebook notebooks/01_EDA_Customer_Behavior.ipynb
-   ```
+5. Open the notebook:
+   
+   ``` jupyter notebook notebooks/01_EDA_Customer_Behavior.ipynb ```
+   
 
 ---
 
 ## Dataset
 
 This project uses the **Online Retail dataset**, which includes transactions from 2010–2011 for a UK-based online retailer. *(You must have the Excel file placed under `data/Online Retail.xlsx`)*
-
----
-
-## Contact
-
-For any suggestions or questions, feel free to reach out at [your-email@example.com].
 
 ---
 
